@@ -1,0 +1,35 @@
+.A{
+    font-family: "Inter", sans-serif;
+    font-size: medium;
+     display: flex;
+     justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+    color: white;
+    background-color:#6e0cb0 ;
+}
+
+ .A1{
+    line-height:120%;
+    display: flex;
+    font-size: 18px; 
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    margin-left: 312px;
+    cursor: pointer;
+
+} 
+.A2{
+    font-size: 22px;
+    display: flex;
+    margin-left: 300px;
+    padding: 10px 12px 10px 12px;
+background-image: linear-gradient(to right,#d1c85fd2,#f16bc8,rgb(207, 68, 207) );
+    border-radius: 20px;
+    font-weight: 600;
+    cursor: pointer;
+:hover {
+  background-color: rgb(25, 199, 71);
+}
+}
