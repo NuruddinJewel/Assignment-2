@@ -34,14 +34,14 @@ background-image: linear-gradient(to right,#d1c85fd2,#f16bc8,rgb(207, 68, 207) )
 }
 }   
 .B1{
-   font-family: "Inter", sans-serif;
+    font-family: "Inter", sans-serif;
    font-weight: bold;
    color: white;
-   font-size: 50px ;
+   font-size: 30px ;
    justify-content: center;
    align-items: center;
    display: flex;
- margin-left: 100px;
+  margin-left: 110px;
 }
 .B2{
    font-family: "Inter", sans-serif;
