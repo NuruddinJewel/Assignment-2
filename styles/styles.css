@@ -32,4 +32,25 @@ background-image: linear-gradient(to right,#d1c85fd2,#f16bc8,rgb(207, 68, 207) )
 :hover {
   background-color: rgb(25, 199, 71);
 }
+}   
+.B1{
+   font-family: "Inter", sans-serif;
+   font-weight: bold;
+   color: white;
+   font-size: 50px ;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+ margin-left: 100px;
+}
+.B2{
+   font-family: "Inter", sans-serif;
+   font-weight: 300;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   line-height: 20px;
+   font-size: medium;
+   margin-top: 16px;
 }
